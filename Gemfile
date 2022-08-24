@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '2.5.1'
+ruby '2.7.4'
+
+gem 'table_print'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.1'
@@ -40,7 +42,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'devise'
 gem 'faker'
 #Front end gem
-gem "font-awesome-rails"
+gem "font-awesome-sass", "~> 6.1.2"
 gem 'bootstrap', '~> 4.3.1'
 
 group :development, :test do
