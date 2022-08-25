@@ -1,24 +1,29 @@
-# README
+# Doto-list mailer !
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+app link - [To-do-be-do](https://todo-mailer.herokuapp.com/)
 
-Things you may want to cover:
+### How to acces
 
-* Ruby version
+[Eventbrighter](https://todo-mailer.herokuapp.com/) - (https://todo-mailer.herokuapp.com/)
 
-* System dependencies
+![](https://media.giphy.com/media/CzbiCJTYOzHTW/giphy.gif)
 
-* Configuration
+Something to get into the mood [here](https://www.youtube.com/watch?v=fKKNPLowteY)
 
-* Database creation
+### Authors Details:
 
-* Database initialization
+👤 **the famous and infamous Vocal_15**
 
-* How to run the test suite
+- [@Chreees79](https://github.com/Chreees79)
+- [@GuillaumeBrthlt](https://github.com/GuillaumeBrthlt)
+- [@linahello](https://github.com/linahello)
+- [@LoiseauB](https://github.com/LoiseauB)
+- [@xko0](https://github.com/xko0) !
 
-* Services (job queues, cache servers, search engines, etc.)
+### Show your support
 
-* Deployment instructions
+[Un Dev A La Mer](http://www.devalamer.fr/)
 
-* ...
+Give us a ⭐ Star on GitHub — it helps!
+
+~~ https://github.com/xko0/todolist-app ~~
