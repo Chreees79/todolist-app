@@ -4,7 +4,7 @@ app link - [To-do-be-do](https://todo-mailer.herokuapp.com/)
 
 ### How to acces
 
-[Eventbrighter](https://todo-mailer.herokuapp.com/) - (https://todo-mailer.herokuapp.com/)
+[To-do-mailer](https://todo-mailer.herokuapp.com/) - (https://todo-mailer.herokuapp.com/)
 
 ![](https://media.giphy.com/media/CzbiCJTYOzHTW/giphy.gif)
 
