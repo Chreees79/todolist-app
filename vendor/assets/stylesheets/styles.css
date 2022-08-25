@@ -2302,8 +2302,6 @@ textarea.form-control-lg {
   background-color: #333;
   border-color: #333;
 }
-.form-check-input:checked[type=checkbox] {
-}
 
 .form-check-input[type=checkbox]:indeterminate {
   background-color: #333;
@@ -5944,11 +5942,8 @@ textarea.form-control-lg {
     "replace" : "next"
   } ]
 } */
-.carousel-control-prev-icon {
-}
 
-.carousel-control-next-icon {
-}
+
 
 .carousel-indicators {
   position: absolute;
