@@ -5,29 +5,7 @@
 @import "font-awesome";
 @import "components/*";
 
-/*
-@keyframes movechecked{
-  0%   { width : 0%; }
-  100% { width: 100%; }
-}
-.movechecked {
-  position: relative;
-}
-.movechecked::after {
-  content: ' ';
-  position: absolute;
-  top: 50%;
-  left: 0;
-  width: 100%;
-  height: 1px;
-  background: black;
-  animation-name: movechecked;
-  animation-duration: 4s;
-  animation-timing-function: linear;
-  animation-iteration-count: 1;
-  animation-fill-mode: forwards; 
-}
-*/
+
 @keyframes strike {
   from { text-decoration-color: transparent; width: 0%; }
   to { text-decoration-color: auto; width: 100%; }
