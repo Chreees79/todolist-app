@@ -7,3 +7,4 @@
 <% else %>
   <%= button_to "Marquer comme lu", email_path(@email.id), method: :put, remote: true, params: { id: @email.id, read: true} %>
 <% end %>
+</div>
